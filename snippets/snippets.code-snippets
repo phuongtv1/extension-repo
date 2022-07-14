@@ -1,0 +1,17 @@
+{
+    "Class": {
+        "prefix": "cc",
+        "body": [
+            "enum CharacterType { Warrior, Mage, Healer };",
+            "",
+            "class Character {",
+            "  contructor(",
+            "    private name: string,",
+            "    private age: number,",
+            "    private type: CharacterType",
+            "  )",
+            "}"
+        ],
+        "description": "This will create a class with a contructor"
+    }
+}
